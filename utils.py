@@ -1,8 +1,6 @@
-
-# Kill the broken files
 import imghdr
 import os
-
+import cv2
 import tqdm
 
 
