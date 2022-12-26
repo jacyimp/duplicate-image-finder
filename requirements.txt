@@ -11,4 +11,4 @@ setuptools==57.0.0
 six==1.16.0
 tqdm==4.62.3
 urwid==2.1.2
-wheel==0.36.2
+wheel==0.38.1
