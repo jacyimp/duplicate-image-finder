@@ -7,7 +7,7 @@ Pillow==9.0.1
 pip==21.1.2
 PyWavelets==1.2.0
 scipy==1.7.3
-setuptools==57.0.0
+setuptools==65.5.1
 six==1.16.0
 tqdm==4.62.3
 urwid==2.1.2
